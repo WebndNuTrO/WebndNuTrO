@@ -25,6 +25,11 @@ I'm still at the beginning of my journey, but I'm excited to learn, build, exper
 
 🚀 Working towards becoming a skilled cybersecurity professional
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw5b2FheHdkdGszZGwwOXdmdzBwdGRxaXl6c2Iyd2thMnhrb2JveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFDBVeoXleYTUpt8Jc/giphy.gif" width="500">
+</p>
+
+
 🛠️ Skills & Technologies
 Currently Learning
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/> </p>
