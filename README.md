@@ -1,4 +1,9 @@
-👋 Hey, I'm Nithyanand!
+## 👋 Hey, I'm Nithyanand!
+
+<p align="center">
+  <img src="./kanna-eating.gif" width="300" height="300">
+</p>
+
 🎓 MCA Student | 🐍 Python Learner | 🔐 Aspiring Cybersecurity Professional
 
 Welcome to my GitHub profile! I'm Nithyanand, an MCA student who has recently started my journey into the world of programming and cybersecurity.
